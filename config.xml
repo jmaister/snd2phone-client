@@ -28,7 +28,9 @@
     <preference name="phonegap-version" value="2.3.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
-    <preference name="fullscreen" value="true" />
+    <preference name="fullscreen" value="false" />
+    
+    <preference name="exit-on-suspend" value="false" />
 
     <preference name="android-installLocation" value="preferExternal" />
 
